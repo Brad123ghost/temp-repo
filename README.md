@@ -8,7 +8,7 @@ database of evidence of different claims about different SE practices.</i>
     <b>Paper:</b> ENSE701 – CISE<br/>
     <b>Task:</b> Assignment 1B</br>
     <b>Group:</b> W207_02<br/><br/>
-    <a href="https://github.com/Brad123ghost">Bradley Chung</a> | 
+    <a href="https://github.com/Brad123ghost">Bradley Chung</a> | ;
     <a href="https://github.com/jsn-nz">Jason Duong</a> |
     <a href="https://github.com/LetMeP1ay">Vadim Berezin</a> |
     <a href="https://github.com/jackdar">Jack Darlington</a>
