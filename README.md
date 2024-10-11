@@ -14,8 +14,7 @@ database of evidence of different claims about different SE practices.</i>
     <a href="https://github.com/jackdar">Jack Darlington</a>
   </p>
 </div>
-<br/>
-
+<br/>d
 ### Contents
   - [Product Overview](#product-overview)
   - [Stack](#stack)
